@@ -19,6 +19,9 @@ A Streamlit-based computer vision application that performs real-time object det
 - YOLOv8
 - ByteTrack
 
+![alt text](images/image-1.png)
+![alt text](images/image.png)
+
 ## Run
 
 pip install -r requirements.txt
